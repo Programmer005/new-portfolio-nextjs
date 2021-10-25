@@ -8,7 +8,6 @@ export default function Meta() {
         name="description"
         content="Hi I am Piyush Panchal. I am a frontend developer, currently learning backend."
       />
-      <html lang="en" />
       <meta property="og:url" content="https://piyushpanchal.vercel.app/" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Piyush Panchal" />
