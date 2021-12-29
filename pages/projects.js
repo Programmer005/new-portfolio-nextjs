@@ -12,13 +12,6 @@ export default function projects() {
 
       <div className="project_grid">
         <Project
-          link="https://techwithpiyush.vercel.app"
-          title="Blog"
-          image="/projects/blog-project.jpg"
-          desc="A blog made with NextJS."
-          alt="blog"
-        />
-        <Project
           link="https://cutedoggo.netlify.app/"
           title="CuteDoggo"
           image="/projects/cutedoggo.jpg"
